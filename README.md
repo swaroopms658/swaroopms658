@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Im Swaroop I'm a Python Full Stack and ML Engineering 
+Hi Im Swaroop  
 
 
 ## 🌐 Socials:
